@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="UglyToad.PdfPig" Version="0.0.10" />
+  </ItemGroup>
+
 </Project>
